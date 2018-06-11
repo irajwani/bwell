@@ -1,0 +1,23 @@
+{
+  "name": "react-native-card-list",
+  "version": "0.1.0",
+  "description": "A list component with zoomable cards ",
+  "main": "index.js",
+  "author": "Daniel Fortes <daniel.mbfm@gmail.com> (http://danielfortes.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmbfm/react-native-card-list.git"
+  },
+  "keywords": [
+    "react-native",
+    "cards",
+    "list",
+    "javascript",
+    "iOS",
+    "Android"
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
